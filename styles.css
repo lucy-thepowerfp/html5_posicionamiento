@@ -45,9 +45,6 @@ header{
     padding: 2vh;
 }
 
-footer{
-    position: fixed;
-}
 
 .sidebar{
     position:relative;
@@ -58,5 +55,19 @@ footer{
 }
 
 .features{
+    margin: 2vh;
+    text-align: center;
+    
+}
 
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 1vh;
+    padding: 2vh;
+    text-align: center;
+}
+
+i{
+    padding-top: 0.5em;
 }
